@@ -1,4 +1,6 @@
-multiupload_minifier
+Multi Upload Minifier
 ====================
 
-Multi Upload Feature using CSS and JS Minifier from http://chilts.org/
+Multi Upload Feature using CSS and JS Minifier services provided by Andy Chilton, http://chilts.org/
+
+
